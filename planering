@@ -1,0 +1,26 @@
+# Jakobs planering
+# Mål:
+-Hemsida som tar input från användaren och skickar till arduino via brokern. Hemsidan ska ha knappar för framåt, bakåt, höger, vänster och stop. 
+# Plan
+## Vecka 16: Cadfokus
+-	Cadda och printa delar så långt jag hinner:
+    -	Motorhållare
+    -	Axeladapter
+    -	Servohållare
+    -	ESP-hållare
+    -	Servo till lego
+-	Börja kika på bilens design
+## Vecka 17: Färdigställ bygget
+-	Färdigställ komponenterna ovan och printa
+## Vecka 18: Köra bilen enkelt och testa om den håller
+-	Även lära mig mer om Svelte och MQTT
+## Vecka 19: Börja med websida och ansluta till MQTT
+-	Skriv kod för MQTT
+-	Börja med webbsida i Svelte
+## Vecka 20: Grunden
+-	Se till att bilens grundläggande funktioner fungerar
+## Vecka 21: Mycket tid, förbättra design? 
+-	Förbättra bilens design?
+-	Fixa buggar
+## Vecka 22: Färdig
+-	Kontrollera att det fungerar
